@@ -40,4 +40,4 @@ git remote add origin <your repository's link>
 git push -u origin main
 ```
 
-**Step 5: Enjoy hacking ;)**
+**Step 6: Enjoy hacking ;)**
