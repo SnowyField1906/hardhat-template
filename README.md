@@ -18,12 +18,12 @@ git clone https://github.com/SnowyField1906/dApp-web3.0-template/
 npm install
 ```
 
-**Step 3: Try running React in your localhost:**
+**Step 3: Try running ReactJS in your localhost:**
 ```
 npm run start
 ```
 
-**Step 4: Install hardhat in smartcontract:**
+**Step 4: Now you only need to install Hardhat in smartcontract:**
 ```
 cd smartcontract
 npm install --save-dev hardhat
