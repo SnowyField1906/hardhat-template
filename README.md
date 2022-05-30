@@ -13,7 +13,7 @@
 git clone https://github.com/SnowyField1906/dApp-web3.0-template/
 ```
 
-**Step 2: Download necessary `npm` files/libraries:**
+**Step 2: Download necessary `npm`packages:**
 ```
 npm install
 ```
