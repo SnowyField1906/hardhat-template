@@ -18,11 +18,6 @@ git clone https://github.com/SnowyField1906/dApp-web3.0-template/
 npm install
 ```
 
-**Step 3: Try running ReactJS in your localhost:**
-```
-npm run start
-```
-
 **Step 4: Commit and push it into your own repository:**
 ```
 git init
