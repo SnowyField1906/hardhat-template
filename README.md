@@ -23,14 +23,7 @@ npm install
 npm run start
 ```
 
-**Step 4: Now you only need to install Hardhat in smartcontract:**
-```
-cd smartcontract
-npm install --save-dev hardhat
-cd ..
-```
-
-**Step 5: Commit and push it into your own repository:**
+**Step 4: Commit and push it into your own repository:**
 ```
 git init
 git add .
@@ -40,4 +33,4 @@ git remote add origin <your repository's link>
 git push -u origin main
 ```
 
-**Step 6: Enjoy hacking ;)**
+**Step 5: Enjoy hacking ;)**
