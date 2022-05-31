@@ -18,7 +18,7 @@ git clone https://github.com/SnowyField1906/dApp-web3.0-template/
 npm install
 ```
 
-**Step 4: Commit and push it into your own repository:**
+**Step 3: Commit and push it into your own repository:**
 ```
 git init
 git add .
@@ -28,4 +28,4 @@ git remote add origin <your repository's link>
 git push -u origin main
 ```
 
-**Step 5: Enjoy hacking ;)**
+**Step 4: Enjoy hacking ;)**
