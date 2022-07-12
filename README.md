@@ -13,7 +13,7 @@
 git clone https://github.com/SnowyField1906/dApp-template/
 ```
 
-**Step 2: Download necessary `npm`packages:**
+**Step 2: Download necessary `npm` packages:**
 ```
 npm install
 ```
