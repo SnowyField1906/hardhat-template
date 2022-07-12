@@ -20,12 +20,11 @@ npm install
 
 **Step 3: Commit and push it into your own repository:**
 ```
-git init
 git add .
 git commit -m "first commit"
-git branch -M main
-git remote add origin <your repository's link>
-git push -u origin main
+git remote rm origin
+git remote add origin <your repository's link>.git
+git push
 ```
 
 **Step 4: Enjoy hacking ;)**
